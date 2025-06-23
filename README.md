@@ -39,11 +39,7 @@
 Unveiling-Titanic-Survival/
 ├── data/
 │   └── titanic.csv
-├── notebooks/
-│   └── analysis.ipynb
-├── src/
-│   ├── preprocess.py
-│   └── model.py
+├── Unveiling_Titanic_Survival.ipynb  # Aquí está todo tu análisis, preprocesamiento y modelado
 ├── README.md
 └── requirements.txt
 ```
